@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Triscal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Triscal\\.nuget\\packages"
+    ]
+  }
+}
