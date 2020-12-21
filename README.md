@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="YOUR_LOGO_URL" alt="TEMPLATE DE UMA ARQUITETURA" width="120">
 <br>
 <br>
 YOUR_PROJECT_NAME
