@@ -3,10 +3,10 @@
   <img src="YOUR_LOGO_URL" alt="TEMPLATE DE UMA ARQUITETURA" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+API ASP.NET CORE
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Um template para API's em Asp.NetCore C#</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
